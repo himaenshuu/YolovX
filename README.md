@@ -21,6 +21,9 @@
 ## 📂 Dataset
 - 📄 Data follows the 📜 COCO JSON format in 📁 `input/`.
 - 🚀 Faster R-CNN uses 🗃️ annotations for 🏋️ training.
+- You can find the required dataset at : https://www.kaggle.com/datasets/himanshuraj56256/catanddog-dataset-coco-format
+- And at : https://www.kaggle.com/datasets/himanshuraj56256/yolov5-custom-dataset
+- And yaml file at : https://www.kaggle.com/datasets/himanshuraj56256/yaml-file
 
 ## 📜 License
 📄 Apche License 2.0
