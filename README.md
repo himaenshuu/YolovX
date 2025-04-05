@@ -1,6 +1,6 @@
 # 🕵️‍♂️🔍 Object Detection with 🦁 YOLO & 🚀 Faster R-CNN
 
-## 🌟 Overview
+## 🌟 Overviews
 📂 This repository contains implementations of 🎯 object detection using 🦁 YOLO & 🚀 Faster R-CNN. It covers 🏋️‍♂️ training, 📊 evaluation, 🎨 fine-tuning on 🎭 custom datasets, and 🕵️ real-time detection.
 
 ## 🛠️ Features
