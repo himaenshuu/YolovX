@@ -31,6 +31,5 @@
 ## 🙌 Acknowledgments
 - ⚡ Ultralytics 🦁 YOLOv5
 - 🧠 PyTorch 🚀 Faster R-CNN
-- 🖼 OpenCV for 🦁 YOLOv3 🎨
-
+- 🖼 OpenCV for 🦁 YOLOv3 
 
